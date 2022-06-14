@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    "**/api-extractor.json": "jsonc",
+    "emscripten.h": "c"
+  }
+}
